@@ -1,5 +1,8 @@
 # SmartRecovery: Dual-Stage Fintech Credit Risk & Recovery Engine
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Render-gold?style=for-the-badge&logo=render&logoColor=white)](https://smart-loan-recovery-6ou2.onrender.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Charanloyal/Smart-Loan-Recovery-System-with-Machine-Learning-)
+
 SmartRecovery is a production-grade credit evaluation and loan recovery forecasting system. It uses a **dual-stage Machine Learning pipeline** to evaluate loan applicants, predict the probability of default, and forecast the expected asset recovery rate if a default occurs.
 
 The system is served via a low-latency FastAPI backend and features a **luxury Black & Gold glassmorphic dashboard** with real-time prediction forms and model performance analytics.
