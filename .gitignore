@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.coverage
+htmlcov/
+ml/loan_data.csv
+ml/artifacts/*.joblib
+ml/artifacts/*.json
+.env
