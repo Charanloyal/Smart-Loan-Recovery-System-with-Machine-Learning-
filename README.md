@@ -277,9 +277,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📧 Contact
 
 For questions or collaboration opportunities:
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+- Email: charan.workmaill.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/b-charan-kumar-reddy-132a36292/]
+- GitHub: [/github.com/Charanloyal]
 
 ## 🙏 Acknowledgments
 
@@ -289,4 +289,4 @@ For questions or collaboration opportunities:
 
 ---
 
-**⭐ If you found this project helpful, please consider giving it a star!**
+**⭐ If you found this project helpful, please consider giving it a star!!!**
