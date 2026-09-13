@@ -278,7 +278,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 For questions or collaboration opportunities:
 - Email: charan.workmaill.email@example.com
-- LinkedIn: [https://www.linkedin.com/in/b-charan-kumar-reddy-132a36292/]
+- LinkedIn: [https://www.linkedin.com/in/b-charan-kumar-reddy/]
 - GitHub: [/github.com/Charanloyal]
 
 ## 🙏 Acknowledgments
